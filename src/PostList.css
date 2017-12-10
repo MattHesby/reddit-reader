@@ -1,0 +1,10 @@
+.PostList {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid gray;
+  background: #DDEEFF;
+}
+
+.currentList {
+  display:inline-block;
+}
