@@ -6,10 +6,10 @@ Add and remove subreddits to see the current top posts.
 npm
 
 ## Installing
-Make Sure npm is Installed first 
-Install Dependancies
-Build the Server
-Desploy the site with serve
+- Make Sure npm is Installed first 
+- Install Dependancies
+- Build the Server
+- Desploy the site with serve
 
 ```
 npm install
