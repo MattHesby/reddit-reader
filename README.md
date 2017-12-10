@@ -6,11 +6,14 @@ Add and remove subreddits to see the current top posts.
 npm
 
 ## Installing
-Make Sure Yarn is Installed first 
+Make Sure npm is Installed first 
+Install Dependancies
 Build the Server
-Desploy the site
+Desploy the site with serve
 
 ```
+npm install
 npm run build
-npm run deploy
+npm install -g serve
+serve -s build
 ```
