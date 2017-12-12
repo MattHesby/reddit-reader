@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Fetch from 'react-fetch';
 import './PostList.css';
 import AddSubreddit from './AddSubreddit.js';
 import Post from './Post.js';
